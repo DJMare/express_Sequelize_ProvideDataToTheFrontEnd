@@ -89,11 +89,11 @@ COMMAND PROMPT
     
 VS CODE
 
-(21) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application.: 
+(21) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application.: ![Require models i app js file (Sequelize_ProvideDataToTheFrontEnd)](https://user-images.githubusercontent.com/35668707/69694016-7104a700-10a5-11ea-8dcf-628c0935961d.JPG)
 
-(22) Add sequelize sync code above module.exports in the app.js file to ensure that the tables within the models in the project are the same as in the database.: 
+(22) Add sequelize sync code above module.exports in the app.js file to ensure that the tables within the models in the project are the same as in the database.: ![Add models sequelize sync in app js file (Sequelize_ProvideDataToTheFrontEnd)](https://user-images.githubusercontent.com/35668707/69694065-9d202800-10a5-11ea-8830-caa893b3c989.JPG)
 
-(23) In the views folder, create a actors.hbs file.: ![Require models i app js file (Sequelize_ProvideDataToTheFrontEnd)](https://user-images.githubusercontent.com/35668707/69694016-7104a700-10a5-11ea-8dcf-628c0935961d.JPG)
+(23) In the views folder, create a actors.hbs file.: 
 
 (24) Add HTML form and add code to show the names of the actors in the actors.hbs file.: 
 
