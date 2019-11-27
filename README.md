@@ -97,8 +97,6 @@ VS CODE
 
 (24)  Add a get() route for /actors to the routes/index.js file.: ![Add get() route for actors in index js file (Sequelize_ProvideDataToTheFrontEnd)](https://user-images.githubusercontent.com/35668707/69694340-61399280-10a6-11ea-9ea2-fa549f98ea92.JPG)
 
-(25) Open the models/actors.js file.: 
-
 COMMAND PROMPT
 
 (27) Run nodemon in terminal to see DB sync'd up: 
@@ -107,11 +105,7 @@ COMMAND PROMPT
 
 WEB BROWSER
 
-(28) Navigate to localhost3000/actors to view the form and list of actors.: 
-
-(29) Fill out form on the localhost3000/actors page.: 
-
-(30) SUbmit completed form and scroll down to the bottom of the list to view new actor added to list.: 
+(28) Navigate to localhost3000/actors to view.
 
 NODEMON NOTE
 
