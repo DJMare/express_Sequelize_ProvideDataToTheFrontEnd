@@ -93,7 +93,7 @@ VS CODE
 
 (22) Add sequelize sync code above module.exports in the app.js file to ensure that the tables within the models in the project are the same as in the database.: 
 
-(23) In the views folder, create a actors.hbs file.: 
+(23) In the views folder, create a actors.hbs file.: ![Require models i app js file (Sequelize_ProvideDataToTheFrontEnd)](https://user-images.githubusercontent.com/35668707/69694016-7104a700-10a5-11ea-8dcf-628c0935961d.JPG)
 
 (24) Add HTML form and add code to show the names of the actors in the actors.hbs file.: 
 
