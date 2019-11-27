@@ -95,9 +95,9 @@ VS CODE
 
 (23) In the views folder, create a actors.hbs file.: ![In views create actors hbs file (Sequelize_ProvideDataToTheFrontEnd)](https://user-images.githubusercontent.com/35668707/69694296-3cddb600-10a6-11ea-98b3-e4a273fe3940.JPG)
 
-(24)  Add a get() route for  to the routes/index.js file.: 
+(24)  Add a get() route for /actors to the routes/index.js file.: ![Add get() route for actors in index js file (Sequelize_ProvideDataToTheFrontEnd)](https://user-images.githubusercontent.com/35668707/69694340-61399280-10a6-11ea-9ea2-fa549f98ea92.JPG)
 
-(25) Open the models/actors.js file. Add auto increment to the actor_id.: 
+(25) Open the models/actors.js file.: 
 
 COMMAND PROMPT
 
