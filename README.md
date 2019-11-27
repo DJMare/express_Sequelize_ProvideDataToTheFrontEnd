@@ -71,7 +71,7 @@ COMMAND PROMPT
 
 VS CODE
 
-(17) Open config/config.json file and change settings to connect to the database.: ![Update database connection info in config-config json file (Sequelize_PostToDatabase)](https://user-images.githubusercontent.com/35668707/69504640-b59c1100-0ef2-11ea-919d-5f129e1ae1bd.JPG) 
+(17) Open config/config.json file and change settings to connect to the database.:
 
 COMMAND PROMPT
 
