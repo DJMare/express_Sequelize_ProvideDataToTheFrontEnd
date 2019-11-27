@@ -56,7 +56,7 @@ VS CODE
 
 (13) Navigate to the routes/index.js file.: ![Open index js file (Sequelize_ProvideDataToTheFrontEnd)](https://user-images.githubusercontent.com/35668707/69693911-08b5c580-10a5-11ea-9d4e-4d77582c6d9d.JPG)
 
-(14) Require mysql2 and models in routes/index.js file:. 
+(14) Require mysql2 and models in routes/index.js file.: ![Require mysql2 in index js file (Sequelize_ProvideDataToTheFrontEnd)](https://user-images.githubusercontent.com/35668707/69693937-2551fd80-10a5-11ea-8444-143e164d0700.JPG)
 
 COMMAND PROMPT
 
