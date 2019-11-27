@@ -27,7 +27,7 @@ COMMAND PROMPT
 
     cd express_Sequelize_ProvideDataToTheFrontEnd
     
-(7) Now in the express_Sequelize_ directory, run the following: 
+(7) Now in the express_Sequelize_ProvideDataToTheFrontEnd directory, run the following: 
 
     npm install
 
