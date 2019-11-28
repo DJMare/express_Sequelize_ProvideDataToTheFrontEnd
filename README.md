@@ -103,9 +103,9 @@ COMMAND PROMPT
 
     nodemon
 
-WEB BROWSER
+POSTMAN
 
-(28) Navigate to localhost3000/actors to view.
+(28) Navigate to localhost3000/actors in Postman to view data. 
 
 NODEMON NOTE
 
