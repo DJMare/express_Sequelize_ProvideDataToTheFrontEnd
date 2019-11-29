@@ -105,7 +105,7 @@ COMMAND PROMPT
 
 POSTMAN
 
-(28) Navigate to localhost3000/actors in Postman to view data. 
+(28) Navigate to localhost3000/actors in Postman to view data.: ![Open in Postman (Sequelize_ProvideDataToTheFrontEnd)](https://user-images.githubusercontent.com/35668707/69844588-e48bed00-123a-11ea-8fd3-9e2858c8bb24.JPG)
 
 NODEMON NOTE
 
