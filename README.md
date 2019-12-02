@@ -1,4 +1,4 @@
-# express_Sequelize_ProvideDataToTheFrontEnd
+# Sequelize_ProvideDataToTheFrontEnd
 An express app utilizing sequelize cli to connect to mySQL database and to provide data to the front end.
 
 COMMAND PROMPT
